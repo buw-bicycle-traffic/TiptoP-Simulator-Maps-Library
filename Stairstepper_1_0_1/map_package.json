@@ -1,0 +1,11 @@
+{
+   "maps": [
+      {
+         "name": "Stairstepper_1_0_1",
+         "xodr": "./Stairstepper_1_0_1.xodr",
+         "use_carla_materials": true,
+         "source": "./Stairstepper_1_0_1.fbx"
+      }
+   ],
+   "props": []
+}
